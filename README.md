@@ -71,6 +71,7 @@
     />
      <img
       height="165"
+       width="50"
       src="https://github-stats-extended.vercel.app/api/top-langs?username=jamylanx&layout=donut-vertical&langs_count=5&theme=gruvbox"
     />
   </div>
