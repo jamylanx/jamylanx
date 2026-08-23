@@ -69,6 +69,11 @@
       height="165"
       src="https://github-stats-extended.vercel.app/api?username=jamylanx&theme=radical"
     />
+     <img
+      height="165"
+      width="500"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=jamylanx&layout=donut-vertical&langs_count=5&theme=gruvbox"
+    />
   </div>
 
   <br />
