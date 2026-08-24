@@ -17,7 +17,7 @@
  Software engineer focused on building modern, scalable, and user-friendly applications. Aspiring network engineer with a growing interest in systems, infrastructure, and cybersecurity. Passionate about AI and machine learning, constantly exploring new technologies and improving my skills through hands-on projects, problem-solving, and continuous learning.
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"
+    src="https://github-stats-extended.vercel.app/api?username=jamylanx&rank_icon=github&show_icons=true&include_all_commits=true&theme=darcula"
     width="100%"
   />
 
