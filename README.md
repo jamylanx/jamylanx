@@ -67,7 +67,7 @@
   <div align="center">
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api?username=jamylanx&rank_icon=github&custom_title=My%20Overall%20Stats&show_icons=true&include_all_commits=true&theme=monokai"
+      src="https://github-stats-extended.vercel.app/api?username=jamylanx&rank_icon=github&show_icons=true&include_all_commits=true&theme=darcula"
     />
   </div>
 
